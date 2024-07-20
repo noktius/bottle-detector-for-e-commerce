@@ -1,0 +1,220 @@
+[
+        {
+          "name": "Jack Daniel's",
+          "alcohol_content": "40%",  
+          "description": "An iconic American whiskey charcoal mellowed for a smooth taste. Enjoyed neat, on the rocks, or in cocktails.",
+          "image_url": "http://127.0.0.1:56789/db/images/101bottle.png"
+        },
+        {
+          "name": "Gorbachoff",
+          "type": "Vodka",  
+          "alcohol_content": "40%",  
+          "description": "A clean and crisp vodka, perfect for mixing in cocktails or enjoying neat.",
+          "image_url": "http://127.0.0.1:56789/db/images/102bottle.png"
+        },
+        {
+          "name": "Red Label",
+          "type": "Blended Scotch Whisky",  
+          "alcohol_content": "40%",  
+          "description": "A well-rounded blended scotch whisky known for its smooth and easy-drinking character.",
+          "image_url": "http://127.0.0.1:56789/db/images/100bottle.png"
+        },
+    {
+        "name": "DELAFORCE Fine White Port",
+        "alcohol_content": "18%",
+        "description": "A sophisticated blend of selected white port wines, offering a delicate balance of fruity and nutty flavors with a subtle hint of oak. Ideal as an aperitif or paired with light desserts.",
+        "image_url": "http://127.0.0.1:56789/db/images/1bottle.png"
+    },
+    {
+        "name": "Royal Oporto Tawny",
+        "alcohol_content": "20%",
+        "description": "A rich and smooth tawny port with notes of caramel, dried fruits, and a touch of spice. Perfect for enjoying on its own or with cheese and nuts.",
+        "image_url": "http://127.0.0.1:56789/db/images/2bottle.png"
+    },
+    {
+        "name": "MC Marques Campoalto Cremovo",
+        "alcohol_content": "15%",
+        "description": "A velvety and indulgent cream sherry with luscious flavors of caramel, toffee, and roasted nuts. Best served chilled as a dessert wine.",
+        "image_url": "http://127.0.0.1:56789/db/images/3bottle.png"
+    },
+    {
+        "name": "Choya Original",
+        "alcohol_content": "15%",
+        "description": "A classic umeshu (Japanese plum wine) with a sweet and tangy taste, featuring the natural flavor of ripe plums. Enjoy it on the rocks or as a refreshing cocktail mixer.",
+        "image_url": "http://127.0.0.1:56789/db/images/4bottle.png"
+    },
+    {
+        "name": "Nuwang Lychee",
+        "alcohol_content": "13%",
+        "description": "An exotic lychee liqueur with a fragrant aroma and a sweet, tropical taste. Perfect for adding a touch of luxury to cocktails or enjoying chilled as a digestif.",
+        "image_url": "http://127.0.0.1:56789/db/images/5bottle.png"
+    },
+    {
+        "name": "Baeren Met Edelherb",
+        "alcohol_content": "12%",
+        "description": "A traditional German honey liqueur with a subtle bitterness and a delicate herbal finish. Enjoy it neat, warmed, or mixed in hot beverages for a comforting treat.",
+        "image_url": "http://127.0.0.1:56789/db/images/6bottle.png"
+    },
+    {
+        "name": "Choya Sake",
+        "alcohol_content": "14%",
+        "description": "A smooth and fragrant sake with a clean taste and a hint of sweetness. Serve it chilled as an accompaniment to Japanese cuisine or enjoy it on its own.",
+        "image_url": "http://127.0.0.1:56789/db/images/7bottle.png"
+    },
+    {
+        "name": "Deus Samos",
+        "alcohol_content": "15%",
+        "description": "A velvety sweet wine from the Greek island of Samos, boasting luscious flavors of ripe apricots, honey, and floral notes. Perfect as a dessert wine or paired with fruit-based desserts.",
+        "image_url": "http://127.0.0.1:56789/db/images/8bottle.png"
+    },
+    {
+        "name": "TIO PE Palomino Fino",
+        "alcohol_content": "15%",
+        "description": "A crisp and dry fino sherry with a delicate aroma and flavors of almonds and sea salt. Enjoy it well-chilled as an aperitif or paired with seafood tapas.",
+        "image_url": "http://127.0.0.1:56789/db/images/9bottle.png"
+    },
+    {
+        "name": "Martini Torino Alkofrei",
+        "alcohol_content": "0.0%",
+        "description": "A non-alcoholic alternative to the classic Martini, featuring aromatic herbs and botanicals for a sophisticated flavor profile. Perfect for those seeking a alcohol-free aperitif option.",
+        "image_url": "http://127.0.0.1:56789/db/images/10bottle.png"
+    },
+    {
+        "name": "Cinzano Bianco",
+        "alcohol_content": "15%",
+        "description": "A classic Italian vermouth with a delicate sweetness and herbal complexity. Ideal for mixing in cocktails or enjoying on the rocks with a twist of citrus.",
+        "image_url": "http://127.0.0.1:56789/db/images/11bottle.png"
+    },
+    {
+        "name": "Belsazar Wein Aperitif",
+        "alcohol_content": "17%",
+        "description": "A premium German aperitif wine crafted with selected wines and botanicals, offering a harmonious balance of sweetness and bitterness. Enjoy it chilled with a slice of orange.",
+        "image_url": "http://127.0.0.1:56789/db/images/12bottle.png"
+    },
+    {
+        "name": "Martini Laperitivo",
+        "alcohol_content": "14.9%",
+        "description": "An Italian aperitivo crafted with aromatic herbs, citrus fruits, and a hint of bitterness. Perfect for creating refreshing spritz cocktails or enjoying over ice with soda water.",
+        "image_url": "http://127.0.0.1:56789/db/images/13bottle.png"
+    },
+    {
+        "name": "Don Giovanni Bianco",
+        "alcohol_content": "16%",
+        "description": "A smooth and aromatic Italian bianco vermouth with a balanced sweetness and herbal complexity. Ideal for mixing in cocktails or enjoying on its own as an aperitif.",
+        "image_url": "http://127.0.0.1:56789/db/images/14bottle.png"
+    },
+    {
+        "name": "Unicum Zwack",
+        "alcohol_content": "40%",
+        "description": "A legendary Hungarian herbal liqueur with a bold and complex flavor profile featuring over 40 herbs and spices. Enjoy it as a digestive after a hearty meal.",
+        "image_url": "http://127.0.0.1:56789/db/images/15bottle.png"
+    },
+    {
+        "name": "Becherovka",
+        "alcohol_content": "38%",
+        "description": "A traditional Czech herbal liqueur with a bittersweet taste and a blend of aromatic herbs and spices. Enjoy it neat as a digestive or mixed in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/16bottle.png"
+    },
+    {
+        "name": "Jaegermeister",
+        "alcohol_content": "35%",
+        "description": "A German herbal liqueur with a complex blend of 56 herbs, fruits, and spices, offering a bittersweet taste with notes of citrus and licorice. Enjoy it chilled as a shot or mixed in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/17bottle.png"
+    },
+    {
+        "name": "St. Hubertus Likor",
+        "alcohol_content": "35%",
+        "description": "A smooth and indulgent herbal liqueur from the Austrian Alps, featuring a blend of alpine herbs and spices. Enjoy it neat or mixed in cocktails for a taste of the mountains.",
+        "image_url": "http://127.0.0.1:56789/db/images/18bottle.png"
+    },
+    {
+        "name": "Schwarzwald Teufel",
+        "alcohol_content": "42%",
+        "description": "A fiery German herbal liqueur with intense flavors of herbs and spices, including juniper, cinnamon, and cloves. Enjoy it as a shot or in cocktails for a bold kick.",
+        "image_url": "http://127.0.0.1:56789/db/images/19bottle.png"
+    },
+    {
+        "name": "Ramazzotti Il Premio",
+        "alcohol_content": "30%",
+        "description": "An Italian amaro liqueur with a rich and complex flavor profile, featuring notes of orange peel, vanilla, and aromatic herbs. Enjoy it neat or mixed in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/20bottle.png"
+    },
+    {
+        "name": "Penninger Blutwurz",
+        "alcohol_content": "35%",
+        "description": "A traditional Bavarian herbal liqueur made with wormwood and other botanicals, offering a bittersweet taste with hints of spice. Enjoy it as a digestive after a hearty meal.",
+        "image_url": "http://127.0.0.1:56789/db/images/21bottle.png"
+    },
+    {
+        "name": "Bio Kraeuterlikoer",
+        "alcohol_content": "30%",
+        "description": "An organic herbal liqueur crafted with a blend of aromatic herbs and spices, offering a harmonious balance of sweetness and bitterness. Enjoy it chilled as a digestive or in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/22bottle.png"
+    },
+    {
+        "name": "Cynar Ricetta",
+        "alcohol_content": "16.5%",
+        "description": "An Italian bitter liqueur made with artichokes and a secret blend of herbs and spices, offering a unique bittersweet taste. Enjoy it on the rocks or in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/23bottle.png"
+    },
+    {
+        "name": "Tunel De Mallorca",
+        "alcohol_content": "25%",
+        "description": "A traditional Mallorcan herbal liqueur with a smooth and aromatic taste, featuring flavors of citrus fruits, herbs, and spices. Enjoy it neat or mixed in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/24bottle.png"
+    },
+    {
+        "name": "Aperol Aperitivo",
+        "alcohol_content": "11%",
+        "description": "An Italian aperitivo with a bright orange color and a bittersweet taste, featuring flavors of orange, rhubarb, and herbs. Perfect for creating refreshing spritz cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/25bottle.png"
+    },
+    {
+        "name": "Absinth 66",
+        "alcohol_content": "66%",
+        "description": "A potent absinthe with a high alcohol content and intense flavors of anise, wormwood, and herbs. Enjoy it diluted with water or in classic absinthe cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/26bottle.png"
+    },
+    {
+        "name": "Bunter Hund Steng",
+        "alcohol_content": "35%",
+        "description": "A German herbal liqueur with a vibrant red color and a fruity flavor profile, featuring notes of berries and herbs. Enjoy it neat or mixed in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/27bottle.png"
+    },
+    {
+        "name": "Absinth 66 1924",
+        "alcohol_content": "66%",
+        "description": "A vintage-inspired absinthe with a high alcohol content and traditional flavors of anise, wormwood, and botanicals. Enjoy it in the classic absinthe ritual.",
+        "image_url": "http://127.0.0.1:56789/db/images/28bottle.png"
+    },
+    {
+        "name": "Stichpimpuli",
+        "alcohol_content": "45%",
+        "description": "A mysterious herbal liqueur with a unique name and flavor profile, featuring a blend of herbs, spices, and botanicals. Enjoy it as a shot or mixed in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/29bottle.png"
+    },
+    {
+        "name": "Aperitivo Heimat",
+        "alcohol_content": "20%",
+        "description": "A German-style aperitivo with a refreshing taste and a blend of herbs and citrus fruits. Perfect for creating spritz cocktails or enjoying on its own.",
+        "image_url": "http://127.0.0.1:56789/db/images/30bottle.png"
+    },
+    {
+        "name": "Ricard Pastis de Marseille",
+        "alcohol_content": "45%",
+        "description": "A classic French pastis with a bold and aromatic flavor profile, featuring notes of anise, licorice, and herbs. Enjoy it diluted with water or mixed in cocktails.",
+        "image_url": "http://127.0.0.1:56789/db/images/31bottle.png"
+    },
+    {
+        "name": "Yeni Raki 1937",
+        "alcohol_content": "45%",
+        "description": "A traditional Turkish raki with a rich and complex flavor profile, featuring notes of anise, herbs, and a hint of sweetness. Enjoy it chilled as an aperitif or paired with meze.",
+        "image_url": "http://127.0.0.1:56789/db/images/32bottle.png"
+    },
+    {
+        "name": "Kuestennebel Sternanis",
+        "alcohol_content": "40%",
+        "description": "A German liqueur with a smooth and aromatic taste, featuring the distinctive flavor of star anise. Enjoy it neat or mixed in cocktails for a touch of spice.",
+        "image_url": "http://127.0.0.1:56789/db/images/33bottle.png"
+    }
+]

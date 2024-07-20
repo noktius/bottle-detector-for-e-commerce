@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The INTERNET permission is required for development. Specifically,
+         the Flutter tool needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <!-- Доступ к интернету -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Доступ к камере -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- Проверка наличия камеры на устройстве -->
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+
+    <!-- Доступ к микрофону -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+</manifest>

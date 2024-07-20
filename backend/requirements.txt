@@ -1,0 +1,18 @@
+flask  # Mikro-Webframework für Webanwendungen
+easyocr  # Bibliothek zur Texterkennung in Bildern
+pandas  # Datenmanipulation und Analyse
+gitpython>=3.1.30  # Interaktion mit Git-Repositories
+matplotlib>=3.3  # Erzeugung von Visualisierungen
+numpy>=1.23.5  # Numerische Operationen auf großen Datenarrays
+opencv-python>=4.1.1  # Bildverarbeitung und Computer Vision
+pillow>=10.3.0  # Bearbeitung von Bildern
+psutil  # System- und Prozessmanagement
+PyYAML>=5.3.1  # YAML-Parser und Generator
+requests>=2.23.0  # HTTP-Anfragen an Webdienste
+scipy>=1.4.1  # Wissenschaftliche Berechnungen und technische Funktionen
+thop>=0.1.1  # Berechnung von FLOPs (Floating Point Operations Per Second) von PyTorch-Modellen
+torch>=1.8.0  # Deep Learning mit Tensoren und dynamischen neuronalen Netzwerken
+torchvision>=0.9.0  # Datensätze, Modellarchitekturen und Bildtransformationen für PyTorch
+tqdm>=4.64.0  # Fortschrittsanzeige für Schleifen
+ultralytics>=8.0.232  # Hilfsmittel zur Verwendung und Erweiterung von YOLOv5-Modellen
+fuzzywuzzy  # Textvergleich durch fuzzy string matching

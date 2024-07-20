@@ -1,0 +1,51 @@
+name: find_this_bottle
+description: "Find this Bottle Project!"
+version: 1.2.0+1
+
+# Definiert die Mindest- und Höchstversion der Dart SDK, die für das Projekt erforderlich ist
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+# Abhängigkeiten des Projekts, die für die Funktionalität benötigt werden
+dependencies:
+  flutter:
+    sdk: flutter # Die Flutter-SDK wird als Abhängigkeit eingefügt
+  camera: ^0.11.0 # Erlaubt das Projekt, Zugriff auf die Kamerafunktionalität zu nehmen
+  image_picker: ^1.1.1 # Ermöglicht das Auswählen von Bildern aus der Galerie
+  cached_network_image: ^3.3.1 # Wird verwendet, um Bilder aus dem Netzwerk zu laden und zu cachen
+  shared_preferences: ^2.2.3 # Ermöglicht das Speichern von einfachen Daten lokal
+  google_fonts: ^6.2.1 # Ermöglicht die Verwendung von Google Fonts in der App
+  image: ^4.1.7 # Bietet Werkzeuge zur Bildbearbeitung
+  image_cropper: ^6.0.0 # Ermöglicht das Zuschneiden von Bildern innerhalb der App
+  http: ^1.2.1 # Erlaubt das Machen von Netzwerkanfragen
+  flutter_native_splash: ^2.4.0 # Ermöglicht die Konfiguration des Startscreens der App
+  package_info_plus: ^8.0.0 # Bietet Informationen über das App-Paket
+
+  cupertino_icons: ^1.0.2 # Stellt iOS-Stil Icons zur Verfügung
+
+# Entwicklungsspezifische Abhängigkeiten, die nicht in der finalen App enthalten sind
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1 # Ermöglicht die einfache Erstellung von Launcher-Icons
+  flutter_test:
+    sdk: flutter # Erlaubt das Schreiben von Tests für Flutter-Apps
+  flutter_lints: ^4.0.0 # Bietet Linting-Regeln, um die Codequalität zu verbessern
+
+# Konfiguration für den nativen Startscreen
+flutter_native_splash:
+  color: "#FE968D" # Hintergrundfarbe des Startscreens
+  image: assets/icon.png
+  android: true
+  ios: true
+  android_12:
+    image: assets/logo.png
+    color: "#FE968D"
+
+# Konfiguration der App-Icons für Android und iOS
+flutter_launcher_icons:
+  image_path_ios: "assets/icon.png"
+  image_path_android: "assets/icon2.png"
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true # Erlaubt die Verwendung von Material Design-Elementen in der App
