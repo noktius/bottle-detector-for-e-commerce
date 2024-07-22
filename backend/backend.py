@@ -18,7 +18,7 @@ import requests
 import json
 from fuzzywuzzy import fuzz, process
 
-API_KEY = "JDSF832dbans8WGDDBndjaka821"
+API_KEY = "YOUR-API-KEY"
 MODEL = 'trained-model/yolov5-large-trained.pt'
 PRODUCTS_DB = 'db/products.json'
 IMAGE_DIRECTORIES = {
